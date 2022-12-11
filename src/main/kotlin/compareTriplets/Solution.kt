@@ -1,11 +1,4 @@
-package compareTriplets/*
- * Complete the 'compareTriplets.compareTriplets' function below.
- *
- * The function is expected to return an INTEGER_ARRAY.
- * The function accepts following parameters:
- *  1. INTEGER_ARRAY a
- *  2. INTEGER_ARRAY b
- */
+package compareTriplets
 fun compareTriplets(a: Array<Int>, b: Array<Int>): Array<Int> {
     var alicePoints = 0
     var bobPoints = 0
